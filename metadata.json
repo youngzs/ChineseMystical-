@@ -1,0 +1,5 @@
+{
+  "name": "Chinese Mystical Divination",
+  "description": "An application for various Chinese mystical divination methods like BaZi, Zi Wei Dou Shu, and Feng Shui, powered by Gemini. Users can input their information to receive detailed analyses and predictions.",
+  "requestFramePermissions": []
+}
